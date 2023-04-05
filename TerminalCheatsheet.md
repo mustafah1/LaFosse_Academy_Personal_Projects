@@ -1,4 +1,4 @@
-#Cheatsheet#
+# Cheatsheet #
 
 - **ls** - List all file
 - **ls -a** - List all file that are hidden too
